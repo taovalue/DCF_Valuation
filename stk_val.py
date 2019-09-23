@@ -6,9 +6,9 @@ Created on Fri Sep 20 10:39:32 2019
 """
 # import modules
 import pandas as pd #data processing
-import pygsheets #export to Google Sheets
-import numpy as np #numerical processing
-import datetime #enable datetime manipulation
+# import pygsheets #export to Google Sheets
+# import numpy as np #numerical processing
+# import datetime #enable datetime manipulation
 pd.set_option('max_columns', 500) #more columns makes it easier to work with wide datasets
 
 # import custom modules (make sure the .py files are in the same working directory of this script)
