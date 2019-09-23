@@ -6,7 +6,7 @@ designed by Nick Kraackman, founder of Value Spreadsheet
 
 Created on Fri Sep 20 10:34:33 2019
 
-@author: patrick.fang
+@author: taovalue
 """
 
 def npv_fcf(fcf, discount_rate, years, growth_rate, multiplier, growth_decline_rate, cash_on_hand, total_debt):

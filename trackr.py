@@ -2,7 +2,8 @@
 """
 Created on Fri Sep 20 10:37:05 2019
 
-@author: patrick.fang
+@author: taovalue
+based on works at:
 https://www.linkedin.com/pulse/financial-screen-scraping-python-chris-hemphill/
 
 Ingesting the Data to Feed the Model
